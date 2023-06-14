@@ -1,0 +1,1 @@
+Para la realización de la verificación de la utilidad2 había cambiado los permisos de d4.c pero al hacer .tgz he tenido que cambiarlos de nuevo.
